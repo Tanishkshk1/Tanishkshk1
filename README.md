@@ -26,7 +26,7 @@ Experienced in developing customizable tools and integrating advanced features f
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Irconic](https://github.com/Tanishkshk1/Irconic)
   
 
 - 🌱 I’m currently learning Rust, Kubernetes and tui development  
