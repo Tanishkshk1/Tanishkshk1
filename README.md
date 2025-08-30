@@ -1,110 +1,49 @@
-## Hey 👋, I'm Tanish Kaushik!  
-  
+> <h1 align="left">Hi 👋, I'm Tanish Kaushik</h1>
 
-<a href="https://github.com/Tanishkshk1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tanish__kaushik" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/tanish-kaushik-3334bb227" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+<img align="right" width="300px" src="https://www.pinclipart.com/picdir/big/90-907332_json-at-master-github-octocat-clipart.png">
 
+> <h3 align="left">A Vimagen.</h3>
 
+- 🔭 I’m currently working on <a href="https://github.com/Tanishkshk1/Irconic">**`CodePedia`**
 
-### Glad to see you here!  
-Dedicated and innovative Computer Science student with hands-on experience in software development, high-performance computing, and dark web crawling. Proven ability to enhance application efficiency, contribute to code quality through constructive peer reviews, and create comprehensive technical documentation. Skilled in multiple programming and scripting languages, including C++, Python, and Rust, with strong expertise in database management and web development. 
+- 🌱 I’m currently learning Go.
 
-Experienced in developing customizable tools and integrating advanced features for enhanced productivity. Adept at problem-solving, teamwork, and participating in coding competitions and hackathons.  
-  
+- 📫 Always available at **[`tanishkshk@gmail.com`](mailto:tanishkshk@gmail.com)**
 
-<br/>  
+- ☢ My friends call me **`Tanish`**
 
+- ⚡ Other interest : `Badminton` | `Chess ♛` |  `Table Tennis`
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<br> 
 
-- 🔭 I’m currently working on [Irconic](https://github.com/Tanishkshk1/Irconic)
-  
+> <h3 align="left">🌏 Get in Touch</h3>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-kaushik-3334bb227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanish__kaushik?igsh=YjFoYWJscThqYmcw)
 
-- 🌱 I’m currently learning Rust, Kubernetes and tui development  
-  
+<br>
 
-- ❓ Ask me about anything related to Linux , Rust and terminal related technologies  
-  
+> <h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
 
-- ⚡ Fun fact:  I think i am funny  
+![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Dart](https://img.shields.io/badge/dart-%2331A8FF.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=E5F2FC)
+![MongoDB](https://img.shields.io/badge/mongodb-4DB33D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-00758F.svg?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+ 
+![Tanish's Github Stats](https://github-readme-stats.vercel.app//api?username=tanishkshk1&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)
+ 
+[![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishkshk1&theme=github-compact&hide_border=true&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</td><td valign="top" width="50%">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkshk1&theme=github-dark&hide_border=true" alt="tanishkshk1"/>
 
-<div align="center">
-<img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" style="width: 100%" />
-</div>  
+[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=tanishkshk1&layout=compact&theme=gotham&langs_count=10&hide_border=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tanishkshk1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishkshk1&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Tanishkshk1&&style=flat-square)  
-  
-
-<br/>  
-
-<div align="left">
-            <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/tanishkshk" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
-<br />
-
-
+[![My Holopin badges](https://holopin.me/tanishkshk1)](https://holopin.io/@tanishkshk1)
