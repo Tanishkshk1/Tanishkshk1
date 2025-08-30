@@ -1,6 +1,6 @@
 > <h1 align="left">Hi 👋, I'm Tanish Kaushik</h1>
 
-<img align="right" width="300px" src="https://www.pinclipart.com/picdir/big/90-907332_json-at-master-github-octocat-clipart.png">
+<img align="right" width="300px" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
 > <h3 align="left">A Vimagen.</h3>
 
