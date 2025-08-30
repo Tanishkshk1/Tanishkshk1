@@ -4,7 +4,7 @@
 
 > <h3 align="left">A Vimagen.</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/Tanishkshk1/Irconic">**`CodePedia`**
+- 🔭 I’m currently working on <a href="https://github.com/Tanishkshk1/Irconic">**`Iroconic`**
 
 - 🌱 I’m currently learning Go.
 
