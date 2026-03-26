@@ -70,11 +70,6 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishkshk1&theme=github-compact&hide_border=true"/>
-
-</div>
 
 ---
 
