@@ -30,31 +30,36 @@
 
 ### 🧑🏻‍💻 Tech Stack
 
-#### ⚡ Core
+<div align="center">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge\&logo=rust\&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge\&logo=go\&logoColor=white)
+#### ⚡ Core  
+<img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
-#### 🔌 Systems & Streaming
+<br><br>
 
-![WebSockets](https://img.shields.io/badge/websockets-%23000000.svg?style=for-the-badge\&logo=socketdotio\&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/ffmpeg-%23000000.svg?style=for-the-badge\&logo=ffmpeg\&logoColor=white)
-![GStreamer](https://img.shields.io/badge/gstreamer-%23FF3131.svg?style=for-the-badge\&logo=gstreamer\&logoColor=white)
+#### 🔌 Systems & Streaming  
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+<img src="https://img.shields.io/badge/GStreamer-FF3131?style=for-the-badge&logo=gstreamer&logoColor=white"/>
 
-#### 🗄️ Backend & Infra
+<br><br>
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4DB33D.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+#### 🗄️ Backend & Infra  
+<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-#### 🛠️ Tools I Live In
+<br><br>
 
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge\&logo=linux\&logoColor=white)
-![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge\&logo=neovim\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/git-f34f29.svg?style=for-the-badge\&logo=git\&logoColor=white)
+#### 🛠️ Tools I Live In  
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
 
+</div>
 ---
 
 ### 📊 GitHub Stats
