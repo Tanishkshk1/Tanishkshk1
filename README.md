@@ -75,8 +75,6 @@
 
 </div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkshk1&theme=github-dark&hide_border=true"/>
-
 ---
 
 ### 🏆 Extras
