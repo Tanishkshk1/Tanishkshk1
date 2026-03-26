@@ -24,15 +24,26 @@
 
 > <h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow)
 ![Dart](https://img.shields.io/badge/dart-%2331A8FF.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![WebSockets](https://img.shields.io/badge/websockets-%23000000.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/ffmpeg-%23000000.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![GStreamer](https://img.shields.io/badge/gstreamer-%23FF3131.svg?style=for-the-badge&logo=gstreamer&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=E5F2FC)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4DB33D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-00758F.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-f34f29.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
