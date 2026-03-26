@@ -59,13 +59,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishkshk1&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkshk1&theme=github-dark&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishkshk1&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishkshk1&theme=github-dark&hide_border=true" height="180"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishkshk1&theme=github-compact&hide_border=true" />
+</p>
 
 <br>
 
